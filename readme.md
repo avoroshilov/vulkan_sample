@@ -12,7 +12,7 @@ What this sample implements:
 * Immediate-mode-style Debug Rendering
 * App screenshot capture
 
-<img src="vkscreenshot.png" alt="Vulkan sample" />
+<img src="examples/vkscreenshot.png" alt="Vulkan sample" />
 
 ## License
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
